@@ -1,5 +1,5 @@
 # Matlab-Scripts
-## scripts for algorithms
+## Scripts for Algorithms
 - Levenberg Marquardt Algorithm
 - Scaled Conjugate Gradient
 - Bayesian Regularization
