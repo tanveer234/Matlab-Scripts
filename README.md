@@ -1,5 +1,4 @@
 # Matlab-Scripts
-## Scripts for Algorithms
 - Levenberg Marquardt Algorithm
 - Scaled Conjugate Gradient
 - Bayesian Regularization
@@ -7,4 +6,6 @@
 - Support Vector Regression
 - Random Forest
 - Multivariate Regression
- 
+- Performance Calculation
+- Error Calculation
+- Graph Generation
