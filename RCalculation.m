@@ -1,0 +1,1 @@
+r = sum((coreK1-mean(coreK1)).*(timur1-mean(timur1)))./sqrt(sum((coreK1-mean(coreK1)).^2).* sum((timur1-mean(timur1)).^2))
